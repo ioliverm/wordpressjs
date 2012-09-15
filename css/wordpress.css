@@ -1,0 +1,33 @@
+.entry-content {clear:both;}
+.hentry img,
+.entry-content img,
+.widget img,
+.wp-caption,
+.hentry embed,
+.entry-content embed,
+.widget embed,
+.hentry object,
+.entry-content object,
+.widget object,
+.hentry video,
+.entry-content video,
+.widget video{max-width:100%;}.hentry img,
+.entry-content img,
+.widget img{border:1px solid #e5e5e5;height:auto;padding:1px;}
+
+.alignright {
+  float: right; }
+
+.alignleft {
+  float: left; }
+
+td.pull-top {
+  vertical-align:top;
+}
+
+table.layoutTable {
+	width:100%;
+	border:0px;
+	cellspacing:0px;
+	cellpadding:0px;
+}
