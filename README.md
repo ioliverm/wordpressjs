@@ -245,7 +245,8 @@ Author
 ------
 
 **Ivan Oliver**
-+@ioliverm
+
++ @ioliverm
 
 License
 -------
